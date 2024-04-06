@@ -146,14 +146,8 @@ text-align: left;
 }
 
 /* main__section-portfolio */
-.main__portfolio-name{
-    color: rgb(46, 47, 66);
-	font-size: 20px;
-    font-weight: 500;
+.portfolio-name{
     text-align: left;
-    letter-spacing: 0.02em;
-    line-height: 1.2;
-    text-transform: capitalize;
 }
 .main__portfolio-category{
     color: rgb(67, 68, 85);
